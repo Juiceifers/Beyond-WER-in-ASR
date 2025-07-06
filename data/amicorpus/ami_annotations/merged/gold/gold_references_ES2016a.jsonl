@@ -1,0 +1,266 @@
+{"segment_id": "ES2016a.sync.4", "start_time": 10.449, "end_time": 14.112, "reference": "Okay . Oh , that's not gonna work .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.6", "start_time": 22.864, "end_time": 23.568, "reference": "", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.8", "start_time": 27.952, "end_time": 29.373, "reference": "Oh , alright .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.10", "start_time": 35.424, "end_time": 36.271, "reference": "Okay .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.12", "start_time": 60.032, "end_time": 65.12, "reference": "Okay . Um alright . Uh , uh , um .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.14", "start_time": 67.856, "end_time": 92.288, "reference": "I'll just put that there . Uh as you all know we're here to create a brand new fantastic remote . Uh I'm Nick Debusk , I'm the Project Manager . Uh we'll just get started with everyone kind of letting each other know who they are and what you're doing , what your what your role is um .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.16", "start_time": 93.616, "end_time": 94.256, "reference": "Go ahead .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.18", "start_time": 138.592, "end_time": 139.264, "reference": "'Kay .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.20", "start_time": 220.976, "end_time": 222.0, "reference": "Okay .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.22", "start_time": 223.962, "end_time": 257.12, "reference": "Um so we've got our opening , our our agenda is the opening , uh acquaintance which we've kinda done . Uh tool training , project plan discussion and then closing . Uh grand total of twenty five minutes we have here . Um so we are putting together a new remote control . Um we want it to be something original . Um of course we're a not only a electronics company but a", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.24", "start_time": 258.256, "end_time": 267.728, "reference": "fashion um conscious electronics company , so we want it to be trendy um and we want it to be easy to use .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.26", "start_time": 269.072, "end_time": 270.56, "reference": "Um", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.28", "start_time": 272.736, "end_time": 284.832, "reference": "we've got the functional design , conceptual design and detailed design um which basically is is the three of you um .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.30", "start_time": 287.6, "end_time": 288.834, "reference": "And", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.32", "start_time": 291.472, "end_time": 299.008, "reference": "w uh well um functional design um .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.34", "start_time": 303.024, "end_time": 307.216, "reference": "Um do we have um", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.36", "start_time": 309.568, "end_time": 322.384, "reference": "any ideas of of maybe d let's just throw out some ideas of what kind of remote control we want to have , and then we can go into how we're gonna design it and", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.38", "start_time": 323.424, "end_time": 326.576, "reference": "and how we're gonna do the detailing on it .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.40", "start_time": 333.345, "end_time": 343.088, "reference": "So we want it to be um a T_V_ remote or I I mean do we want it to to do other things besides just be a a television remote ?", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.42", "start_time": 348.275, "end_time": 348.864, "reference": "'Kay .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.44", "start_time": 361.76, "end_time": 362.96, "reference": "Mm-hmm . 'Kay .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.46", "start_time": 372.72, "end_time": 386.864, "reference": "I I think yeah , yeah , r universal remote . Um this is my first uh go-round with creating a remote control , so I think we're all in the same boat here . Ye yeah . Huh . Ours too .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.48", "start_time": 387.984, "end_time": 388.928, "reference": "Um", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.50", "start_time": 395.616, "end_time": 396.288, "reference": "Okay . Mm", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.52", "start_time": 400.144, "end_time": 404.512, "reference": "So we should we should set our remote control up to where it has a uh , I thought that'd be quite good quite a good feature .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.54", "start_time": 407.408, "end_time": 411.13, "reference": "like a tracking device or or like a a Oh you can get those key well you could whistle ?", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.56", "start_time": 412.352, "end_time": 415.92, "reference": "It makes a noise , there's a button on the T_V_ that you press and Mm , mm . and it'd beep . Yeah . Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.58", "start_time": 417.52, "end_time": 417.904, "reference": "'Kay .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.60", "start_time": 428.448, "end_time": 441.904, "reference": "Yeah . Do we want so they're kinda like long and rectangular . Do we want something crazy ? You know , we want something new that's gonna stand out . A m a modern so our remote should be Just long . Yeah . Black usually . Yeah . I think so . Maybe sorta spherical Lot more modern .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.62", "start_time": 458.848, "end_time": 459.696, "reference": "'Kay . maybe the actual controls", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.64", "start_time": 461.51, "end_time": 462.496, "reference": "Um . Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.66", "start_time": 495.376, "end_time": 511.504, "reference": "Okay so yeah , so we want it to be sturdy , we want it to to hold up to somebody's child , you know , throwing it across the room or , as you said , people kinda throw it , so ball-shaped , uh you know , if it were ball-shaped maybe , then it , have to buy one every half a year ? Yeah . Yeah . It could be cased", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.68", "start_time": 514.304, "end_time": 521.744, "reference": "'Kay . Um so we want it to be modern , fun , sturdy , .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.70", "start_time": 523.856, "end_time": 524.928, "reference": "um", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.72", "start_time": 528.576, "end_time": 534.848, "reference": "So our form and our function . Um we want it to be um", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.74", "start_time": 536.608, "end_time": 539.44, "reference": "easy to find .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.76", "start_time": 553.44, "end_time": 554.784, "reference": "Um", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.78", "start_time": 557.408, "end_time": 557.616, "reference": "", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.80", "start_time": 559.536, "end_time": 560.832, "reference": "What else", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.82", "start_time": 564.0, "end_time": 569.76, "reference": "it what else do we want it to to do ? So we want it to be universal .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.84", "start_time": 572.432, "end_time": 578.368, "reference": "It's something that we're supposed to sell for about twenty five Euros um", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.86", "start_time": 579.68, "end_time": 580.624, "reference": "and", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.88", "start_time": 582.736, "end_time": 591.52, "reference": "you know , goals for profits are I think somewhere around uh fifty million Euros , what they wanna make on it , so . Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.90", "start_time": 604.352, "end_time": 604.784, "reference": "'Kay .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.92", "start_time": 609.776, "end_time": 614.864, "reference": "So marketing , you know , how maybe uh", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.94", "start_time": 616.128, "end_time": 625.744, "reference": "marketing , you could s find out what is the most universally um appealing remote control out there . Yeah", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.96", "start_time": 633.696, "end_time": 634.266, "reference": "'Kay . , 'cause maybe", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.98", "start_time": 650.224, "end_time": 651.376, "reference": "Um", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.100", "start_time": 663.359, "end_time": 663.856, "reference": "", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.102", "start_time": 665.104, "end_time": 671.536, "reference": "Do you guys have any ideas for what it should look like ? Maybe we could draw it up on the on the board over there . Some ideas ?", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.104", "start_time": 676.064, "end_time": 684.624, "reference": "We want it to be a b a ball , you know , we'll draw up we'll draw up the ball and maybe th um where the buttons are located . I'd I could draw sorta the ball idea .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.106", "start_time": 746.064, "end_time": 747.712, "reference": ". But yeah . Futuristic .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.108", "start_time": 750.128, "end_time": 750.672, "reference": "Uh-huh .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.110", "start_time": 803.328, "end_time": 805.296, "reference": "How would we go about um", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.112", "start_time": 808.0, "end_time": 819.552, "reference": "making you know getting rid of our weak points ? What I mean would we just have a flat spot on the bottom of the ball ? Not to put you on the spot , but E No no , uh uh", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.114", "start_time": 822.416, "end_time": 824.448, "reference": "What did you say your title was again ? N n", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.116", "start_time": 825.255, "end_time": 828.288, "reference": "You're the the Industrial Designer . your Industrial Designer , so", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.118", "start_time": 829.769, "end_time": 831.57, "reference": "b well , the point is", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.120", "start_time": 845.232, "end_time": 845.696, "reference": "Okay . . As", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.122", "start_time": 859.712, "end_time": 860.144, "reference": "", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.124", "start_time": 862.944, "end_time": 863.438, "reference": "Yeah . there's nothing", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.126", "start_time": 865.616, "end_time": 873.936, "reference": "It's not new , it's not innovative , it's you know , everybody does long remote because it's easy , it's it's stable um . left field , yeah . Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.128", "start_time": 876.864, "end_time": 880.361, "reference": "So if no , go ahead . . What", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.130", "start_time": 933.376, "end_time": 934.949, "reference": "Something with a grip . Yeah , with a grip Mm . Yeah", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.132", "start_time": 939.154, "end_time": 943.794, "reference": "Yeah . Because even I suppose even with the ball", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.134", "start_time": 945.472, "end_time": 949.392, "reference": "it's it might not be the easiest to hold onto um . Mm . it still not the ho easiest thing to hold , yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.136", "start_time": 951.68, "end_time": 967.447, "reference": "So perhaps the the joystick the the keyboard idea might work better . But then again , people like to use one hand to flip and one hand to hold their soda , so maybe maybe we Like yeah . Yeah . It's d yeah . I True .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.138", "start_time": 974.288, "end_time": 978.688, "reference": "I feel like I'm just shooting everything down here . Uh um That's fine . You're", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.140", "start_time": 990.287, "end_time": 990.929, "reference": "Yeah . if the remote is .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.142", "start_time": 1003.12, "end_time": 1025.712, "reference": "Okay , so unfortunately we've got about five minutes here to come up with our um remote control idea and start rolling with it . Um we've talked about our experiences with remote control and um we've got a couple ideas um . So", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.144", "start_time": 1030.224, "end_time": 1032.176, "reference": "Let's see here .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.146", "start_time": 1040.496, "end_time": 1064.752, "reference": "What if we had what if we had not only um say we went with the ball the ball function um , but maybe we give it sort of grips along the side s um to make it easier to hold on to . So", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.148", "start_time": 1068.176, "end_time": 1085.424, "reference": "you know um s so it's easier to hold onto that way . Course that'll then remove some of our our ball . Unless this unless this part were raised , so say the cover flips over and covers that part . Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.150", "start_time": 1086.464, "end_time": 1087.808, "reference": "So the grip is", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.152", "start_time": 1089.889, "end_time": 1092.813, "reference": "No , that wouldn't work either um .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.154", "start_time": 1096.64, "end_time": 1106.288, "reference": "But if we're gonna make it flat on the bottom , then that eliminates our ball anyways . So if it were flat on the bottom and then had the", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.156", "start_time": 1108.064, "end_time": 1110.368, "reference": "sorta grips on the side here I guess ,", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.158", "start_time": 1113.072, "end_time": 1114.112, "reference": "um", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.160", "start_time": 1115.248, "end_time": 1116.08, "reference": "and then", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.162", "start_time": 1117.152, "end_time": 1118.724, "reference": "flat uh", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.164", "start_time": 1124.976, "end_time": 1126.992, "reference": "And then we have the problem with the hinge .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.166", "start_time": 1128.272, "end_time": 1131.328, "reference": "So if we're flat on the bottom , it's not gonna roll away , it'll stay where we want .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.168", "start_time": 1138.512, "end_time": 1140.32, "reference": "Mm , that's true . It's probably", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.170", "start_time": 1163.696, "end_time": 1165.913, "reference": "So we don't have it flip open . too stable uh .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.172", "start_time": 1167.04, "end_time": 1169.16, "reference": "We just have a ball", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.174", "start_time": 1175.184, "end_time": 1195.072, "reference": "Okay , so then we forget the ball . It looks cool , but it's really not it's not functional um . So we've got our sort of keyboard kind . What if we flipped it around here , so that it were um It looks cool . Uh functional . Looks cool though . Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.176", "start_time": 1197.392, "end_time": 1203.456, "reference": "Sorry , that doesn't look anything like what you had there . Um so it's up and down , you hold it this way .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.178", "start_time": 1205.152, "end_time": 1215.472, "reference": "Course then it's it's like the rectangular again , only with a couple of jutting out points . But it's one-handed um . Right . Right . Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.180", "start_time": 1226.543, "end_time": 1227.232, "reference": "Yeah . , right Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.182", "start_time": 1230.896, "end_time": 1231.579, "reference": "Yeah . we'll not", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.184", "start_time": 1242.528, "end_time": 1247.008, "reference": "Yeah , because it doesn't have a cord , like joysticks do . You know , all that dif batteries right , and", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.186", "start_time": 1261.632, "end_time": 1266.912, "reference": "Is it possible to have it to where it would work with a like a sensor on either side ?", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.188", "start_time": 1267.979, "end_time": 1270.328, "reference": "So that either way you're pointing it it would work . I suppose you could do that . O of course", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.190", "start_time": 1273.408, "end_time": 1275.26, "reference": "More expensive and yeah . it'll cost , so .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.192", "start_time": 1278.457, "end_time": 1279.296, "reference": "'Kay .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.194", "start_time": 1281.248, "end_time": 1282.026, "reference": "Um", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.196", "start_time": 1294.478, "end_time": 1295.202, "reference": "True . the buttons and", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.198", "start_time": 1325.632, "end_time": 1326.352, "reference": "'Kay . Sorry", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.200", "start_time": 1327.856, "end_time": 1338.512, "reference": "Are we out of time ? Okay , well , just to finish up , should we s go with this plan , start making some Mm . to finish . Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.202", "start_time": 1349.168, "end_time": 1350.816, "reference": "Are good ideas , what are not .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.204", "start_time": 1354.56, "end_time": 1355.504, "reference": "Uh .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.206", "start_time": 1357.712, "end_time": 1364.912, "reference": "Must finish now , so . And then marketing will look and see what uh what people want . T Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.208", "start_time": 1369.51, "end_time": 1381.76, "reference": "Okay . And Project Manager will design a better meeting for next time around , be a little bit more prepared . And uh alright , good meeting .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.211", "start_time": 172.464, "end_time": 222.584, "reference": "Okay . Right . I'm Manuel and I'm the Industrial Designer in in this project um . In the functional design phase I'm I'll be dealing mostly with the requirements , um we'll discuss what the prog what functions the the product has to fulfil and so and so on . Um I suppose we'll work pretty much together on that one . Um um in the conceptual design um I'll be pro mostly dealing with properties and materials um of our product . And uh the detailed design in the detailed design I'll be concerned with the look and feel of the product itself , um so we're pretty much working together obviously on the design front here . Okay . Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.213", "start_time": 357.617, "end_time": 358.211, "reference": "have the same role", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.215", "start_time": 366.103, "end_time": 366.524, "reference": "Mm . think they all work", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.217", "start_time": 412.652, "end_time": 414.292, "reference": "a noise , there's a button on the T_V_ Mm , mm . it'd beep .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.219", "start_time": 416.32, "end_time": 416.816, "reference": "Right .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.221", "start_time": 419.359, "end_time": 420.048, "reference": "So", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.223", "start_time": 442.744, "end_time": 443.616, "reference": ". A ball", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.225", "start_time": 450.912, "end_time": 451.795, "reference": "Mm . I thought maybe", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.227", "start_time": 462.48, "end_time": 493.056, "reference": "Well there are of course certain restrictions , you can't have it be any form and fulfil all functions at the same time , so there are always the some restrictions we have to apply here . Um however um one question is how stable is that thing supposed to be , that refers to the material , pretty much um . What are we gonna build that thing out of ? How sturdy is it gonna be ? Do we want it to last longer or rather have people Yeah . Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.229", "start_time": 494.688, "end_time": 498.0, "reference": "Okay so yeah , so we want it to be sturdy whatever , have to buy one every half a year ? Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.231", "start_time": 627.544, "end_time": 628.244, "reference": "And maybe as far", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.233", "start_time": 639.818, "end_time": 640.851, "reference": "Right .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.235", "start_time": 715.472, "end_time": 716.603, "reference": ", and then you'd have", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.237", "start_time": 748.804, "end_time": 749.547, "reference": "was that was a sorta simple", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.239", "start_time": 761.264, "end_time": 783.248, "reference": "Right . One problem you'd get with this design is um the ball is a nice idea because of it's stability really , but of course , since it's a ball , it'll roll , so we'd have to have it flat on one side at least , down here somewhere , take away that part . That's one of the big issues . Also also you risk the hinges here . That's that's um a problem . Yeah . Yeah . Maybe f yeah . Yeah , that's g that's a good idea . Yeah . The idea it didn't have to necessarily", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.241", "start_time": 784.272, "end_time": 792.496, "reference": "That's that's interesting of course , but that's of course a weak point , yeah . a hinge , that was just one idea though . Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.243", "start_time": 817.324, "end_time": 820.816, "reference": "you on the spot , but E No no , uh uh .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.245", "start_time": 822.368, "end_time": 823.923, "reference": "What did you say your title was again N n", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.247", "start_time": 824.92, "end_time": 832.224, "reference": "You're the the Industrial Designer . Uh , I'm your Industrial Designer , so i b well , the point is", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.249", "start_time": 833.248, "end_time": 834.864, "reference": "that", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.251", "start_time": 836.56, "end_time": 854.256, "reference": "Okay . well maybe I dunno . The shape is perhaps not the most ideal . As as stable as it is , there must be a compromise between um stability and design here , so . Well I I suppose that things become design . But I mean i Mm-hmm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.253", "start_time": 920.89, "end_time": 921.348, "reference": "Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.255", "start_time": 948.691, "end_time": 949.294, "reference": "um Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.257", "start_time": 982.64, "end_time": 995.296, "reference": "Yeah . Well with the one-handed design you also have the the problem of the size w 'cause you know from cell phones , they can be too small . So if the remote is too small it if it's small it probably looks better , but Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.259", "start_time": 996.448, "end_time": 998.016, "reference": "may not be th as functional .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.261", "start_time": 999.536, "end_time": 1000.496, "reference": "So for that there's", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.263", "start_time": 1004.863, "end_time": 1005.238, "reference": "So", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.265", "start_time": 1131.998, "end_time": 1138.144, "reference": "The question is also , I dunno , d do you really always want to open that thing when you have to use it ?", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.267", "start_time": 1139.551, "end_time": 1165.888, "reference": "true . So we don't have it flip open . It's probably going to lie around opened all the time anyway , so I don't know if a lid is a good idea . From stabil stability point of view uh it certainly is , but also you have to face it and take into account the more of these things break by accident , uh the more we sell . So it's don't make it too stable uh .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.269", "start_time": 1173.678, "end_time": 1174.772, "reference": "To the other design . something along those things then", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.271", "start_time": 1178.215, "end_time": 1182.672, "reference": ". It looks cool , but it's really not It looks cool . Looks cool though . Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.273", "start_time": 1183.339, "end_time": 1184.539, "reference": "functional Uh functional .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.275", "start_time": 1210.018, "end_time": 1212.199, "reference": "points . But Right . Right .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.277", "start_time": 1216.064, "end_time": 1235.2, "reference": "Yeah . Yeah . Question is what makes those game pads functional ? W I think that's pretty much the form for full hand . So it's a round shape underneath that makes it comfy , right , makes it nice , so that's the essential part . Except for that I think we'll not probably not get a get away from some longer design . Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.279", "start_time": 1237.28, "end_time": 1241.36, "reference": "'Cause you also have to know which way around to point this thing .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.281", "start_time": 1242.961, "end_time": 1246.121, "reference": "Yeah , because it doesn't have a cord , like joysticks You know , all that dif batteries right , and", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.283", "start_time": 1246.992, "end_time": 1252.16, "reference": "Batteries go weak as well , so um after a while you have to point it towards the uh", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.285", "start_time": 1254.048, "end_time": 1258.208, "reference": "towards the equipment you wanna control with it , right ? So , have to m", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.287", "start_time": 1259.408, "end_time": 1261.184, "reference": "show which is the front , which is the back .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.289", "start_time": 1268.054, "end_time": 1274.784, "reference": "that either way you're pointing it it would work . More expensive and yeah I suppose you could do that . O of course the more technology you stick in that , the more it'll cost , so .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.291", "start_time": 1275.76, "end_time": 1277.632, "reference": "Course you can do that .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.293", "start_time": 1286.336, "end_time": 1311.301, "reference": "True . I mean of course it'll be evident after a while or if you look at it , it'll it'll be evident which way around to point it , since you have the the numbers and the and the the buttons and stuff , but um it's rather about an instinctual thing , like you just grab it , you don't have to s look at it , you know , which way around to point it . Otherwise the design of or the the point of putting two sensors on both sides um would probably work . Put it", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.295", "start_time": 1328.655, "end_time": 1329.12, "reference": "Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.297", "start_time": 1351.024, "end_time": 1352.402, "reference": "Let's . Obviously Does it say what does it say for n it", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.299", "start_time": 1366.016, "end_time": 1366.4, "reference": "Alright .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.301", "start_time": 1374.46, "end_time": 1376.35, "reference": "around , be a little bit more prepared", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.304", "start_time": 139.184, "end_time": 170.08, "reference": ". Hiya , I'm Ryan . Um I'm the User Interface Designer . Um likewise I've three different roles for each stage of design . Um the functional design is looking at the tex technical functions of a remote control . Um in the concept design , the user interface , how the user reacts with the the product . And the detailed design um sort of like the user interface design , what they might be looking for , uh things like fashions , what makes wha how we're gonna make it special .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.306", "start_time": 171.568, "end_time": 172.368, "reference": "That's about it .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.308", "start_time": 202.028, "end_time": 202.622, "reference": "um Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.310", "start_time": 233.656, "end_time": 234.436, "reference": ". Uh tool training", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.312", "start_time": 326.816, "end_time": 333.472, "reference": "Yeah . Well uh s function of remote control is just just you know , change channels is its main function .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.314", "start_time": 343.072, "end_time": 352.592, "reference": "'Kay . Oh right . I suppose you c try make it a universal remote for could work on all sort of electrical", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.316", "start_time": 353.584, "end_time": 361.728, "reference": "products in in one person's house . But , you know , they all sorta have the same role changing channels , volumes and then programming . Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.318", "start_time": 365.92, "end_time": 372.144, "reference": "Mm . I think they all work on the same prin principle as well sorta like I don't actually know . But is it just infra-red ? Is that standard ?", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.320", "start_time": 372.779, "end_time": 374.192, "reference": "I think yeah , yeah Ye yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.322", "start_time": 383.637, "end_time": 384.27, "reference": "", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.324", "start_time": 391.248, "end_time": 395.312, "reference": "Um one thing I thought of with the remote control is you always lose 'em .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.326", "start_time": 396.528, "end_time": 401.92, "reference": "So we should we should set So if there's a g a way of finding it quite easily , I thought that'd be quite good quite a good feature . Ch", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.328", "start_time": 408.61, "end_time": 413.429, "reference": "or or like a a It makes a noise , there's Oh you can get those key well you could whistle or make a noise and it'd beep .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.330", "start_time": 415.504, "end_time": 415.862, "reference": "and Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.332", "start_time": 422.64, "end_time": 428.352, "reference": "Generally , all remotes are sort of quite similar in their appearance .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.334", "start_time": 429.504, "end_time": 430.441, "reference": ". Do we want Just long .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.336", "start_time": 432.231, "end_time": 434.311, "reference": "rectangular . Do we want something Yeah . Black usually .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.338", "start_time": 435.485, "end_time": 436.242, "reference": "know , we want something Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.340", "start_time": 438.544, "end_time": 439.432, "reference": ". A m a modern I think so .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.342", "start_time": 441.107, "end_time": 444.304, "reference": "should be Maybe sorta spherical or something . A ball .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.344", "start_time": 446.917, "end_time": 447.651, "reference": "Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.346", "start_time": 450.144, "end_time": 460.848, "reference": "'Kay . Mm . People I thought maybe , because people always tend to throw a remote control about the place to one another if it was in a ball , and maybe the actual controls are inside or something . type thing .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.348", "start_time": 468.816, "end_time": 469.291, "reference": "the same time Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.350", "start_time": 497.095, "end_time": 497.721, "reference": "we want it to be half a year Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.352", "start_time": 506.27, "end_time": 506.801, "reference": "ball-shaped Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.354", "start_time": 511.088, "end_time": 514.368, "reference": ", then it It could be cased on the outside and t everything could be inside .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.356", "start_time": 634.275, "end_time": 634.813, "reference": "Ye one", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.358", "start_time": 636.016, "end_time": 636.512, "reference": "Small . all", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.360", "start_time": 677.008, "end_time": 680.221, "reference": "a ball , you know , we'll draw up we'll draw up the I'd I could draw sorta the ball idea .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.362", "start_time": 688.758, "end_time": 690.672, "reference": "My original idea was just simply", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.364", "start_time": 693.12, "end_time": 696.321, "reference": "sort of a sphere , where maybe you", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.366", "start_time": 698.896, "end_time": 708.368, "reference": "this is where it's connected together , and then when you open it out , it could fol it could be maybe flip , like a flip phone , and then when you fold it out the middle", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.368", "start_time": 710.176, "end_time": 716.944, "reference": "Maybe a hinge that'll have to be the strongest part of it . If that if we did use a hinge , or if it was just two parts , and then you'd have", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.370", "start_time": 718.0, "end_time": 720.144, "reference": "just sorta you you you know , your buttons .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.372", "start_time": 722.624, "end_time": 731.712, "reference": "Thing is inside I think , sometimes remotes have too many buttons , so maybe as simple as possible , um as few buttons inside as possible .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.374", "start_time": 732.928, "end_time": 738.656, "reference": "Um , I dunno , what's the idea for . Just something maybe if you ha if it had like if some kind of", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.376", "start_time": 740.208, "end_time": 746.976, "reference": "like light or something or lights around it . It's looking a bit like something out of Star Wars at the moment though , to be fair . But yeah . Futuristic", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.378", "start_time": 748.672, "end_time": 752.91, "reference": "Uh-huh . That was that was a sorta simple idea I had and then you know you could about", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.380", "start_time": 753.744, "end_time": 761.616, "reference": "Right Right , it would almost be like a ball . So that was just just an idea I had . I don't know whether anybody else has other ideas ?", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.382", "start_time": 767.024, "end_time": 767.396, "reference": "really Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.384", "start_time": 770.928, "end_time": 771.342, "reference": "we'd have Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.386", "start_time": 772.736, "end_time": 773.575, "reference": "one side at least Maybe f yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.388", "start_time": 778.526, "end_time": 779.999, "reference": ". Also also Yeah , that's g that's a good idea .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.390", "start_time": 781.408, "end_time": 786.512, "reference": ". That's that's um a problem . That's Yeah . The idea it didn't have to necessarily be f a hinge , that was just one idea though .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.392", "start_time": 791.952, "end_time": 792.533, "reference": ". Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.394", "start_time": 814.81, "end_time": 815.856, "reference": "", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.396", "start_time": 850.214, "end_time": 854.165, "reference": "um stability and design here , so . Well I I suppose that things become design . But I mean i Mm-hmm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.398", "start_time": 854.976, "end_time": 867.633, "reference": "Yeah . It's not new , it's not innovative , it's I was trying to think of like the design of others . I can't think of anything other than a long rectangle for remote , maybe small , sort of fatter ones , but there's nothing being done sort of out of left field , yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.400", "start_time": 870.224, "end_time": 870.738, "reference": "easy Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.402", "start_time": 890.169, "end_time": 890.845, "reference": "Yeah . games", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.404", "start_time": 905.408, "end_time": 907.576, "reference": "I think definitely doing something different", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.406", "start_time": 908.64, "end_time": 909.552, "reference": "is a good idea .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.408", "start_time": 922.161, "end_time": 933.392, "reference": "I mean maybe design something , that's sort of like uh I suppose not everybody's everybody's hand's the same , but something that would maybe fit in the hand easier .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.410", "start_time": 934.528, "end_time": 935.767, "reference": ". Yeah , with a grip . . Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.412", "start_time": 944.416, "end_time": 948.051, "reference": "it's it might not be the easiest to hold onto It still might be hard to it still not the ho easiest thing to hold , yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.414", "start_time": 955.296, "end_time": 956.368, "reference": "the the Like yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.416", "start_time": 964.768, "end_time": 965.274, "reference": ", so maybe Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.418", "start_time": 966.992, "end_time": 971.632, "reference": "we It's d yeah . I think it's definitely got to be a a one-handed a one-handed job . Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.420", "start_time": 976.077, "end_time": 976.766, "reference": ". Uh", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.422", "start_time": 1071.652, "end_time": 1072.272, "reference": "so it's easier Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.424", "start_time": 1170.064, "end_time": 1175.099, "reference": "To the other design . But then maybe to go back to the to th s something along those things then .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.426", "start_time": 1205.516, "end_time": 1206.281, "reference": "Course then it's Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.428", "start_time": 1297.578, "end_time": 1298.192, "reference": "an instinctual Put it", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.430", "start_time": 1310.912, "end_time": 1325.808, "reference": "'Kay . Even if you designed it in some in a way that you know , isn't a rectangle , but still pointed in a direction that had definite points . So if that's your thing and you got something like that instead , and there's your s you kn you know which way you're gonna pointing it . Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.432", "start_time": 1326.367, "end_time": 1326.957, "reference": "Um to interrupt", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.434", "start_time": 1350.985, "end_time": 1354.64, "reference": "Uh Let's . Obviously Does it say what does it say for n it says on there what we need to do for the next meeting , I think .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.436", "start_time": 1357.809, "end_time": 1358.46, "reference": "finish T", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.439", "start_time": 63.712, "end_time": 64.651, "reference": "alright Uh , uh , um .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.441", "start_time": 94.192, "end_time": 138.8, "reference": ". Okay . I am Corinne Whiting and I will be the Marketing Expert and in each of the three phases I will have a different role . In the function design phase I will be talking about user requirement specification , and this means what needs and desires are to be fulfilled , and I'll be doing research to figure this out . In the conceptual design phase I will be dealing with trend watching and I'll be doing marketing research on the web . And then finally in the um detailed design phase I will be doing product evaluation and so I will be collecting the requirements and ranking all the requirements to see how we did .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.443", "start_time": 233.549, "end_time": 235.228, "reference": ". Uh tool training , project", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.445", "start_time": 356.048, "end_time": 356.4, "reference": "Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.447", "start_time": 378.805, "end_time": 379.432, "reference": "Huh .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.449", "start_time": 380.438, "end_time": 381.871, "reference": ", so", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.451", "start_time": 382.544, "end_time": 386.625, "reference": "I think we're all in the same boat here . Ours too .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.453", "start_time": 396.208, "end_time": 396.56, "reference": "So Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.455", "start_time": 397.824, "end_time": 398.448, "reference": "a way of finding Ch", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.457", "start_time": 406.624, "end_time": 408.664, "reference": "like a tracking device Like a tracking device ?", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.459", "start_time": 415.119, "end_time": 415.592, "reference": "and Yeah Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.461", "start_time": 417.68, "end_time": 418.488, "reference": ". Be good .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.463", "start_time": 436.501, "end_time": 438.256, "reference": "that's gonna stand out Lot more modern .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.465", "start_time": 444.752, "end_time": 446.656, "reference": "Maybe like user-friendly , like a little", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.467", "start_time": 447.968, "end_time": 450.768, "reference": "People you know , where you can use both hands , like a little keyboard type thing .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.469", "start_time": 461.502, "end_time": 461.96, "reference": "Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.471", "start_time": 482.56, "end_time": 482.944, "reference": "Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.473", "start_time": 591.112, "end_time": 591.559, "reference": ". Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.475", "start_time": 596.048, "end_time": 603.84, "reference": "Also since we're partners of the International Remote Control Association , maybe we wanna make it something that would globally appeal .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.477", "start_time": 605.408, "end_time": 608.272, "reference": "That's more on the research end , but the marketing .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.479", "start_time": 624.609, "end_time": 626.016, "reference": "out there . Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.481", "start_time": 627.593, "end_time": 638.512, "reference": "'Kay . Ye Small . And maybe as far as design goes , maybe we could have different ones for different target audiences , 'cause maybe one won't apply to all of the countries we're targeting .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.483", "start_time": 744.752, "end_time": 745.552, "reference": ", to be fair", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.485", "start_time": 746.492, "end_time": 747.641, "reference": ". Futuristic .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.487", "start_time": 747.979, "end_time": 748.8, "reference": "That", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.489", "start_time": 794.144, "end_time": 797.104, "reference": "", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.491", "start_time": 814.64, "end_time": 816.525, "reference": "", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.493", "start_time": 823.934, "end_time": 825.78, "reference": "? You're the Uh , I'm your Industrial", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.495", "start_time": 827.048, "end_time": 828.233, "reference": "Designer . , so", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.497", "start_time": 852.924, "end_time": 853.634, "reference": "here . But Mm-hmm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.499", "start_time": 854.496, "end_time": 854.992, "reference": "", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.501", "start_time": 875.893, "end_time": 886.944, "reference": "So if no , go ahead . 'Kay , I'll draw something . What ? My idea was just to have it be kind of like a", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.503", "start_time": 887.968, "end_time": 901.193, "reference": "Yeah . keyboard type shape , you know , like video games l so . But maybe I mean that would be kinda big and bulky . We could also try to do the hinge thing , so it could like flip out that way . I don't know .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.505", "start_time": 902.609, "end_time": 905.136, "reference": "That's my idea .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.507", "start_time": 907.536, "end_time": 908.128, "reference": "Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.509", "start_time": 933.569, "end_time": 935.024, "reference": "with a grip . Yeah , with a grip Mm . Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.511", "start_time": 964.56, "end_time": 965.664, "reference": ", so maybe Yeah . True .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.513", "start_time": 970.256, "end_time": 970.736, "reference": "Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.515", "start_time": 976.07, "end_time": 980.896, "reference": ". Uh um That's fine . You're the boss , you're allowed to .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.517", "start_time": 989.904, "end_time": 990.524, "reference": "Yeah if the remote Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.519", "start_time": 1178.384, "end_time": 1182.896, "reference": ". It looks cool , but it's really not It looks cool . Looks cool though . Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.521", "start_time": 1208.274, "end_time": 1211.996, "reference": ", only with a couple of jutting out points Right . Right", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.523", "start_time": 1226.544, "end_time": 1227.23, "reference": "Yeah . , right Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.525", "start_time": 1235.312, "end_time": 1235.824, "reference": "Right .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.527", "start_time": 1321.024, "end_time": 1322.271, "reference": "you got something like that instead Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.529", "start_time": 1326.272, "end_time": 1329.296, "reference": "Are we out of time Mm . Um Sorry to interrupt , but we have a warning to finish . Yeah .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.531", "start_time": 1364.314, "end_time": 1364.8, "reference": "want Mm .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.533", "start_time": 1367.504, "end_time": 1368.16, "reference": "Great .", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.535", "start_time": 1374.287, "end_time": 1376.973, "reference": "around , be a little bit more prepared", "meeting_id": "ES2016a"}
+{"segment_id": "ES2016a.sync.537", "start_time": 1380.762, "end_time": 1381.28, "reference": "", "meeting_id": "ES2016a"}

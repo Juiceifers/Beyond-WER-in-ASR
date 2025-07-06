@@ -1,0 +1,1505 @@
+<?xml version='1.0' encoding='utf-8'?>
+<segments xmlns:ns0="http://nite.sourceforge.net/"><segment ns0:id="ES2016d.sync.3" channel="0" transcriber_start="7.834" transcriber_end="9.206">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words0)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.5" channel="0" transcriber_start="13.946" transcriber_end="16.425">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1)..id(ES2016d.A.words5)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.7" channel="0" transcriber_start="17.564" transcriber_end="18.839">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words6)..id(ES2016d.A.words8)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.9" channel="0" transcriber_start="27.789" transcriber_end="32.2">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words9)..id(ES2016d.A.words16)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.11" channel="0" transcriber_start="34.32" transcriber_end="61.783">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words17)..id(ES2016d.A.words84)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.12" channel="0" transcriber_start="61.783" transcriber_end="74.228">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words85)..id(ES2016d.A.words118)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.13" channel="0" transcriber_start="74.228" transcriber_end="95.806">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words119)..id(ES2016d.A.words170)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.14" channel="0" transcriber_start="95.806" transcriber_end="125.307">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words171)..id(ES2016d.A.words233)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.15" channel="0" transcriber_start="125.307" transcriber_end="154.352">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words234)..id(ES2016d.A.words303)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.17" channel="0" transcriber_start="155.536" transcriber_end="167.36">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words304)..id(ES2016d.A.words340)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.19" channel="0" transcriber_start="169.296" transcriber_end="177.584">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words341)..id(ES2016d.A.words364)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.21" channel="0" transcriber_start="180.48" transcriber_end="182.88">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words365)..id(ES2016d.A.words375)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.23" channel="0" transcriber_start="184.242" transcriber_end="184.949">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words376)..id(ES2016d.A.words377)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.25" channel="0" transcriber_start="202.338" transcriber_end="203.315">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words378)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.27" channel="0" transcriber_start="224.845" transcriber_end="225.788">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words379)..id(ES2016d.A.words381)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.29" channel="0" transcriber_start="282.552" transcriber_end="283.663">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words382)..id(ES2016d.A.words383)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.31" channel="0" transcriber_start="297.973" transcriber_end="299.724">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words384)..id(ES2016d.A.words389)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.33" channel="0" transcriber_start="300.262" transcriber_end="301.104">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words390)..id(ES2016d.A.words393)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.35" channel="0" transcriber_start="307.284" transcriber_end="307.957">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words394)..id(ES2016d.A.words395)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.37" channel="0" transcriber_start="310.432" transcriber_end="310.988">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words396)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.39" channel="0" transcriber_start="319.136" transcriber_end="320.281">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words397)..id(ES2016d.A.words402)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.41" channel="0" transcriber_start="322.907" transcriber_end="323.984">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words403)..id(ES2016d.A.words405)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.43" channel="0" transcriber_start="336.32" transcriber_end="338.928">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words406)..id(ES2016d.A.words414)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.45" channel="0" transcriber_start="339.984" transcriber_end="346.944">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words415)..id(ES2016d.A.words428)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.47" channel="0" transcriber_start="452.288" transcriber_end="461.84">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words429)..id(ES2016d.A.words466)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.49" channel="0" transcriber_start="462.837" transcriber_end="464.784">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words467)..id(ES2016d.A.words473)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.51" channel="0" transcriber_start="468.729" transcriber_end="470.345">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words474)..id(ES2016d.A.words478)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.53" channel="0" transcriber_start="485.934" transcriber_end="487.278">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words479)..id(ES2016d.A.words480)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.55" channel="0" transcriber_start="488.079" transcriber_end="489.065">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words481)..id(ES2016d.A.words483)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.57" channel="0" transcriber_start="497.734" transcriber_end="498.576">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words484)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.59" channel="0" transcriber_start="507.344" transcriber_end="512.01">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words485)..id(ES2016d.A.words502)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.61" channel="0" transcriber_start="535.426" transcriber_end="535.965">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words503)..id(ES2016d.A.words504)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.63" channel="0" transcriber_start="540.645" transcriber_end="542.16">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words505)..id(ES2016d.A.words507)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.65" channel="0" transcriber_start="543.288" transcriber_end="545.106">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words508)..id(ES2016d.A.words510)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.67" channel="0" transcriber_start="546.08" transcriber_end="547.261">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words511)..id(ES2016d.A.words515)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.69" channel="0" transcriber_start="562.244" transcriber_end="562.884">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words516)..id(ES2016d.A.words517)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.71" channel="0" transcriber_start="577.882" transcriber_end="578.656">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words518)..id(ES2016d.A.words519)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.73" channel="0" transcriber_start="583.909" transcriber_end="586.299">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words520)..id(ES2016d.A.words527)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.75" channel="0" transcriber_start="589.161" transcriber_end="590.306">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words528)..id(ES2016d.A.words533)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.77" channel="0" transcriber_start="606.214" transcriber_end="607.998">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words534)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.79" channel="0" transcriber_start="619.648" transcriber_end="623.722">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words535)..id(ES2016d.A.words546)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.81" channel="0" transcriber_start="635.406" transcriber_end="637.493">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words547)..id(ES2016d.A.words553)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.83" channel="0" transcriber_start="640.524" transcriber_end="641.433">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words554)..id(ES2016d.A.words555)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.85" channel="0" transcriber_start="645.103" transcriber_end="645.81">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words556)..id(ES2016d.A.words557)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.87" channel="0" transcriber_start="649.744" transcriber_end="654.892">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words558)..id(ES2016d.A.words584)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.89" channel="0" transcriber_start="655.33" transcriber_end="663.04">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words585)..id(ES2016d.A.words609)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.91" channel="0" transcriber_start="664.252" transcriber_end="665.33">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words610)..id(ES2016d.A.words613)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.93" channel="0" transcriber_start="668.697" transcriber_end="672.636">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words614)..id(ES2016d.A.words622)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.95" channel="0" transcriber_start="673.382" transcriber_end="675.604">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words623)..id(ES2016d.A.words628)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.97" channel="0" transcriber_start="692.911" transcriber_end="697.136">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words629)..id(ES2016d.A.words643)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.99" channel="0" transcriber_start="699.929" transcriber_end="701.074">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words644)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.101" channel="0" transcriber_start="705.215" transcriber_end="707.303">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words645)..id(ES2016d.A.words650)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.103" channel="0" transcriber_start="724.704" transcriber_end="729.952">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words651)..id(ES2016d.A.words661)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.105" channel="0" transcriber_start="737.965" transcriber_end="739.144">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words662)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.107" channel="0" transcriber_start="747.191" transcriber_end="747.932">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words663)..id(ES2016d.A.words664)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.109" channel="0" transcriber_start="750.76" transcriber_end="751.433">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words665)..id(ES2016d.A.words666)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.111" channel="0" transcriber_start="767.543" transcriber_end="768.755">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words667)..id(ES2016d.A.words669)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.113" channel="0" transcriber_start="769.9" transcriber_end="776.566">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words670)..id(ES2016d.A.words697)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.115" channel="0" transcriber_start="780.192" transcriber_end="783.963">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words698)..id(ES2016d.A.words713)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.117" channel="0" transcriber_start="786.432" transcriber_end="795.983">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words714)..id(ES2016d.A.words735)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.119" channel="0" transcriber_start="804.333" transcriber_end="806.219">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words736)..id(ES2016d.A.words742)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.121" channel="0" transcriber_start="813.641" transcriber_end="814.483">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words743)..id(ES2016d.A.words744)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.123" channel="0" transcriber_start="815.152" transcriber_end="822.624">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words745)..id(ES2016d.A.words772)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.125" channel="0" transcriber_start="824.584" transcriber_end="826.907">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words773)..id(ES2016d.A.words778)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.127" channel="0" transcriber_start="828.86" transcriber_end="830.712">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words779)..id(ES2016d.A.words783)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.129" channel="0" transcriber_start="834.468" transcriber_end="835.31">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words784)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.131" channel="0" transcriber_start="836.556" transcriber_end="841.101">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words785)..id(ES2016d.A.words797)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.133" channel="0" transcriber_start="845.734" transcriber_end="846.745">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words798)..id(ES2016d.A.words800)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.135" channel="0" transcriber_start="870.072" transcriber_end="871.217">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words801)..id(ES2016d.A.words803)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.137" channel="0" transcriber_start="872.598" transcriber_end="873.675">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words804)..id(ES2016d.A.words806)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.139" channel="0" transcriber_start="881.689" transcriber_end="883.709">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words807)..id(ES2016d.A.words811)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.141" channel="0" transcriber_start="885.337" transcriber_end="886.262">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words812)..id(ES2016d.A.words813)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.143" channel="0" transcriber_start="910.832" transcriber_end="913.616">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words814)..id(ES2016d.A.words821)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.145" channel="0" transcriber_start="915.86" transcriber_end="918.486">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words822)..id(ES2016d.A.words832)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.147" channel="0" transcriber_start="923.47" transcriber_end="924.144">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words833)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.149" channel="0" transcriber_start="926.567" transcriber_end="927.914">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words834)..id(ES2016d.A.words836)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.151" channel="0" transcriber_start="934.816" transcriber_end="938.789">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words837)..id(ES2016d.A.words843)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.153" channel="0" transcriber_start="939.358" transcriber_end="944.944">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words844)..id(ES2016d.A.words863)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.155" channel="0" transcriber_start="947.312" transcriber_end="948.524">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words864)..id(ES2016d.A.words867)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.157" channel="0" transcriber_start="951.117" transcriber_end="952.352">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words868)..id(ES2016d.A.words869)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.159" channel="0" transcriber_start="963.137" transcriber_end="965.325">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words870)..id(ES2016d.A.words875)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.161" channel="0" transcriber_start="966.704" transcriber_end="967.344">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words876)..id(ES2016d.A.words877)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.163" channel="0" transcriber_start="968.264" transcriber_end="972.506">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words878)..id(ES2016d.A.words895)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.165" channel="0" transcriber_start="974.512" transcriber_end="979.872">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words896)..id(ES2016d.A.words912)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.167" channel="0" transcriber_start="982.169" transcriber_end="984.944">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words913)..id(ES2016d.A.words920)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.169" channel="0" transcriber_start="985.604" transcriber_end="987.254">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words921)..id(ES2016d.A.words927)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.171" channel="0" transcriber_start="992.704" transcriber_end="993.318">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words928)..id(ES2016d.A.words930)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.173" channel="0" transcriber_start="994.672" transcriber_end="995.944">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words931)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.175" channel="0" transcriber_start="1002.779" transcriber_end="1004.766">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words932)..id(ES2016d.A.words939)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.177" channel="0" transcriber_start="1007.024" transcriber_end="1008.0">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words940)..id(ES2016d.A.words941)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.179" channel="0" transcriber_start="1009.984" transcriber_end="1032.784">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words942)..id(ES2016d.A.words1009)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.181" channel="0" transcriber_start="1033.84" transcriber_end="1034.832">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1010)..id(ES2016d.A.words1012)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.183" channel="0" transcriber_start="1035.872" transcriber_end="1038.992">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1013)..id(ES2016d.A.words1023)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.185" channel="0" transcriber_start="1040.064" transcriber_end="1043.904">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1024)..id(ES2016d.A.words1037)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.187" channel="0" transcriber_start="1044.832" transcriber_end="1046.368">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1038)..id(ES2016d.A.words1044)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.189" channel="0" transcriber_start="1048.064" transcriber_end="1048.55">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1045)..id(ES2016d.A.words1046)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.191" channel="0" transcriber_start="1051.311" transcriber_end="1053.538">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1047)..id(ES2016d.A.words1051)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.193" channel="0" transcriber_start="1057.536" transcriber_end="1062.144">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1052)..id(ES2016d.A.words1054)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.195" channel="0" transcriber_start="1063.762" transcriber_end="1076.657">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1055)..id(ES2016d.A.words1082)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.197" channel="0" transcriber_start="1080.664" transcriber_end="1082.953">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1083)..id(ES2016d.A.words1091)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.199" channel="0" transcriber_start="1086.688" transcriber_end="1089.519">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1092)..id(ES2016d.A.words1098)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.201" channel="0" transcriber_start="1090.384" transcriber_end="1092.246">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1099)..id(ES2016d.A.words1103)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.203" channel="0" transcriber_start="1097.2" transcriber_end="1100.864">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1104)..id(ES2016d.A.words1108)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.205" channel="0" transcriber_start="1102.564" transcriber_end="1108.861">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1109)..id(ES2016d.A.words1134)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.207" channel="0" transcriber_start="1109.366" transcriber_end="1110.847">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1135)..id(ES2016d.A.words1141)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.209" channel="0" transcriber_start="1114.012" transcriber_end="1114.753">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1142)..id(ES2016d.A.words1143)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.211" channel="0" transcriber_start="1116.807" transcriber_end="1122.43">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1144)..id(ES2016d.A.words1164)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.213" channel="0" transcriber_start="1125.965" transcriber_end="1136.928">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1165)..id(ES2016d.A.words1184)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.215" channel="0" transcriber_start="1138.528" transcriber_end="1142.048">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1185)..id(ES2016d.A.words1191)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.217" channel="0" transcriber_start="1142.919" transcriber_end="1145.141">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1192)..id(ES2016d.A.words1201)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.219" channel="0" transcriber_start="1145.848" transcriber_end="1146.622">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1202)..id(ES2016d.A.words1203)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.221" channel="0" transcriber_start="1148.88" transcriber_end="1158.001">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1204)..id(ES2016d.A.words1218)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.223" channel="0" transcriber_start="1160.832" transcriber_end="1164.784">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1219)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.225" channel="0" transcriber_start="1166.016" transcriber_end="1168.405">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1220)..id(ES2016d.A.words1229)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.227" channel="0" transcriber_start="1169.03" transcriber_end="1176.16">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1230)..id(ES2016d.A.words1254)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.229" channel="0" transcriber_start="1177.168" transcriber_end="1177.696">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1255)..id(ES2016d.A.words1256)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.231" channel="0" transcriber_start="1180.816" transcriber_end="1189.872">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1257)..id(ES2016d.A.words1281)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.233" channel="0" transcriber_start="1191.312" transcriber_end="1193.744">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1282)..id(ES2016d.A.words1285)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.235" channel="0" transcriber_start="1194.896" transcriber_end="1197.312">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1286)..id(ES2016d.A.words1290)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.237" channel="0" transcriber_start="1203.026" transcriber_end="1205.37">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1291)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.239" channel="0" transcriber_start="1207.657" transcriber_end="1212.656">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1292)..id(ES2016d.A.words1307)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.241" channel="0" transcriber_start="1227.472" transcriber_end="1228.544">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1308)..id(ES2016d.A.words1311)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.243" channel="0" transcriber_start="1229.39" transcriber_end="1231.915">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1312)..id(ES2016d.A.words1320)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.245" channel="0" transcriber_start="1244.575" transcriber_end="1245.417">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1321)..id(ES2016d.A.words1322)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.247" channel="0" transcriber_start="1254.24" transcriber_end="1256.644">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1323)..id(ES2016d.A.words1331)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.249" channel="0" transcriber_start="1265.466" transcriber_end="1268.126">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1332)..id(ES2016d.A.words1340)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.251" channel="0" transcriber_start="1269.809" transcriber_end="1270.482">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1341)..id(ES2016d.A.words1342)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.253" channel="0" transcriber_start="1271.526" transcriber_end="1275.129">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1343)..id(ES2016d.A.words1348)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.255" channel="0" transcriber_start="1276.033" transcriber_end="1277.112">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1349)..id(ES2016d.A.words1351)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.257" channel="0" transcriber_start="1280.176" transcriber_end="1281.018">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1352)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.259" channel="0" transcriber_start="1282.499" transcriber_end="1286.336">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1353)..id(ES2016d.A.words1364)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.261" channel="0" transcriber_start="1287.55" transcriber_end="1290.032">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1365)..id(ES2016d.A.words1371)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.263" channel="0" transcriber_start="1312.245" transcriber_end="1313.154">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1372)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.265" channel="0" transcriber_start="1314.417" transcriber_end="1336.736">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1373)..id(ES2016d.A.words1426)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.267" channel="0" transcriber_start="1338.976" transcriber_end="1340.0">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1427)..id(ES2016d.A.words1428)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.269" channel="0" transcriber_start="1343.568" transcriber_end="1345.601">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1429)..id(ES2016d.A.words1432)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.271" channel="0" transcriber_start="1347.79" transcriber_end="1349.002">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1433)..id(ES2016d.A.words1436)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.273" channel="0" transcriber_start="1363.824" transcriber_end="1368.602">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1437)..id(ES2016d.A.words1452)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.275" channel="0" transcriber_start="1369.208" transcriber_end="1370.88">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1453)..id(ES2016d.A.words1459)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.277" channel="0" transcriber_start="1371.946" transcriber_end="1381.112">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1460)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.279" channel="0" transcriber_start="1381.901" transcriber_end="1385.201">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1461)..id(ES2016d.A.words1471)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.281" channel="0" transcriber_start="1388.681" transcriber_end="1389.247">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1472)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.283" channel="0" transcriber_start="1390.621" transcriber_end="1391.379">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1473)..id(ES2016d.A.words1474)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.285" channel="0" transcriber_start="1397.068" transcriber_end="1398.247">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1475)..id(ES2016d.A.words1478)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.287" channel="0" transcriber_start="1398.692" transcriber_end="1407.952">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1479)..id(ES2016d.A.words1502)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.289" channel="0" transcriber_start="1409.021" transcriber_end="1413.095">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1503)..id(ES2016d.A.words1518)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.291" channel="0" transcriber_start="1414.224" transcriber_end="1419.121">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1519)..id(ES2016d.A.words1529)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.293" channel="0" transcriber_start="1419.877" transcriber_end="1422.268">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1530)..id(ES2016d.A.words1538)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.295" channel="0" transcriber_start="1423.454" transcriber_end="1432.592">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1539)..id(ES2016d.A.words1566)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.297" channel="0" transcriber_start="1433.728" transcriber_end="1438.736">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1567)..id(ES2016d.A.words1581)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.299" channel="0" transcriber_start="1440.192" transcriber_end="1442.304">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1582)..id(ES2016d.A.words1589)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.301" channel="0" transcriber_start="1443.664" transcriber_end="1448.697">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1590)..id(ES2016d.A.words1604)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.303" channel="0" transcriber_start="1451.098" transcriber_end="1451.974">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1605)..id(ES2016d.A.words1606)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.305" channel="0" transcriber_start="1453.128" transcriber_end="1453.616">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1607)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.307" channel="0" transcriber_start="1455.269" transcriber_end="1458.848">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1608)..id(ES2016d.A.words1622)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.309" channel="0" transcriber_start="1460.072" transcriber_end="1463.936">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1623)..id(ES2016d.A.words1631)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.311" channel="0" transcriber_start="1466.736" transcriber_end="1470.576">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1632)..id(ES2016d.A.words1641)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.313" channel="0" transcriber_start="1471.823" transcriber_end="1473.001">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1642)..id(ES2016d.A.words1643)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.315" channel="0" transcriber_start="1475.216" transcriber_end="1480.832">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1644)..id(ES2016d.A.words1657)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.317" channel="0" transcriber_start="1482.548" transcriber_end="1487.026">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1658)..id(ES2016d.A.words1669)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.319" channel="0" transcriber_start="1490.326" transcriber_end="1494.112">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1670)..id(ES2016d.A.words1683)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.321" channel="0" transcriber_start="1498.71" transcriber_end="1499.518">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1684)..id(ES2016d.A.words1685)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.323" channel="0" transcriber_start="1502.192" transcriber_end="1504.333">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1686)..id(ES2016d.A.words1692)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.325" channel="0" transcriber_start="1506.353" transcriber_end="1508.137">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1693)..id(ES2016d.A.words1696)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.327" channel="0" transcriber_start="1509.92" transcriber_end="1516.755">
+      <ns0:child href="ES2016d.A.words.xml#id(ES2016d.A.words1697)..id(ES2016d.A.words1724)" />
+   </segment>
+<segment ns0:id="ES2016d.sync.330" channel="1" transcriber_start="184.849" transcriber_end="187.824">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words0)..id(ES2016d.B.words9)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.332" channel="1" transcriber_start="264.46" transcriber_end="271.056">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words10)..id(ES2016d.B.words27)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.334" channel="1" transcriber_start="272.128" transcriber_end="290.489">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words28)..id(ES2016d.B.words88)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.336" channel="1" transcriber_start="291.296" transcriber_end="297.584">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words89)..id(ES2016d.B.words107)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.338" channel="1" transcriber_start="298.464" transcriber_end="302.192">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words108)..id(ES2016d.B.words121)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.340" channel="1" transcriber_start="303.28" transcriber_end="306.512">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words122)..id(ES2016d.B.words137)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.342" channel="1" transcriber_start="307.776" transcriber_end="317.44">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words138)..id(ES2016d.B.words166)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.344" channel="1" transcriber_start="319.632" transcriber_end="320.668">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words167)..id(ES2016d.B.words168)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.346" channel="1" transcriber_start="341.394" transcriber_end="341.967">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words169)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.348" channel="1" transcriber_start="448.148" transcriber_end="452.144">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words170)..id(ES2016d.B.words172)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.350" channel="1" transcriber_start="468.244" transcriber_end="470.178">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words173)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.352" channel="1" transcriber_start="471.344" transcriber_end="483.752">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words174)..id(ES2016d.B.words209)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.354" channel="1" transcriber_start="484.4" transcriber_end="506.576">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words210)..id(ES2016d.B.words278)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.356" channel="1" transcriber_start="509.118" transcriber_end="510.061">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words279)..id(ES2016d.B.words280)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.358" channel="1" transcriber_start="511.856" transcriber_end="514.775">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words281)..id(ES2016d.B.words290)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.360" channel="1" transcriber_start="515.728" transcriber_end="523.68">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words291)..id(ES2016d.B.words313)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.362" channel="1" transcriber_start="533.899" transcriber_end="534.741">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words314)..id(ES2016d.B.words315)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.364" channel="1" transcriber_start="537.079" transcriber_end="537.82">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words316)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.366" channel="1" transcriber_start="543.914" transcriber_end="546.541">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words317)..id(ES2016d.B.words319)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.368" channel="1" transcriber_start="554.217" transcriber_end="556.911">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words320)..id(ES2016d.B.words327)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.370" channel="1" transcriber_start="558.624" transcriber_end="561.928">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words328)..id(ES2016d.B.words334)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.372" channel="1" transcriber_start="577.565" transcriber_end="578.34">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words335)..id(ES2016d.B.words336)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.374" channel="1" transcriber_start="585.882" transcriber_end="586.993">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words337)..id(ES2016d.B.words338)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.376" channel="1" transcriber_start="588.003" transcriber_end="589.047">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words339)..id(ES2016d.B.words343)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.378" channel="1" transcriber_start="604.144" transcriber_end="607.547">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words344)..id(ES2016d.B.words355)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.380" channel="1" transcriber_start="608.464" transcriber_end="612.16">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words356)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.382" channel="1" transcriber_start="625.8" transcriber_end="626.622">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words357)..id(ES2016d.B.words358)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.384" channel="1" transcriber_start="629.116" transcriber_end="629.627">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words359)..id(ES2016d.B.words360)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.386" channel="1" transcriber_start="634.969" transcriber_end="636.485">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words361)..id(ES2016d.B.words363)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.388" channel="1" transcriber_start="640.424" transcriber_end="641.198">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words364)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.390" channel="1" transcriber_start="648.486" transcriber_end="649.261">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words365)..id(ES2016d.B.words366)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.392" channel="1" transcriber_start="654.272" transcriber_end="656.512">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words367)..id(ES2016d.B.words372)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.394" channel="1" transcriber_start="662.878" transcriber_end="663.794">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words373)..id(ES2016d.B.words374)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.396" channel="1" transcriber_start="666.197" transcriber_end="669.184">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words375)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.398" channel="1" transcriber_start="676.72" transcriber_end="680.118">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words376)..id(ES2016d.B.words384)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.400" channel="1" transcriber_start="681.152" transcriber_end="682.32">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words385)..id(ES2016d.B.words388)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.402" channel="1" transcriber_start="683.451" transcriber_end="687.222">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words389)..id(ES2016d.B.words400)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.404" channel="1" transcriber_start="689.579" transcriber_end="693.956">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words401)..id(ES2016d.B.words414)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.406" channel="1" transcriber_start="696.0" transcriber_end="696.928">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words415)..id(ES2016d.B.words416)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.408" channel="1" transcriber_start="699.242" transcriber_end="701.06">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words417)..id(ES2016d.B.words419)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.410" channel="1" transcriber_start="702.208" transcriber_end="712.912">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words420)..id(ES2016d.B.words456)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.412" channel="1" transcriber_start="713.984" transcriber_end="724.176">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words457)..id(ES2016d.B.words496)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.414" channel="1" transcriber_start="727.035" transcriber_end="737.92">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words497)..id(ES2016d.B.words533)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.416" channel="1" transcriber_start="745.024" transcriber_end="749.615">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words534)..id(ES2016d.B.words544)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.418" channel="1" transcriber_start="750.659" transcriber_end="751.467">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words545)..id(ES2016d.B.words546)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.420" channel="1" transcriber_start="758.624" transcriber_end="759.2">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words547)..id(ES2016d.B.words548)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.422" channel="1" transcriber_start="759.872" transcriber_end="760.435">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words549)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.424" channel="1" transcriber_start="761.752" transcriber_end="762.863">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words550)..id(ES2016d.B.words553)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.426" channel="1" transcriber_start="765.84" transcriber_end="775.758">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words554)..id(ES2016d.B.words571)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.428" channel="1" transcriber_start="782.447" transcriber_end="784.029">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words572)..id(ES2016d.B.words575)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.430" channel="1" transcriber_start="786.237" transcriber_end="786.739">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words576)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.432" channel="1" transcriber_start="788.575" transcriber_end="790.056">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words577)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.434" channel="1" transcriber_start="791.639" transcriber_end="792.548">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words578)..id(ES2016d.B.words579)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.436" channel="1" transcriber_start="803.664" transcriber_end="806.704">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words580)..id(ES2016d.B.words591)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.438" channel="1" transcriber_start="812.688" transcriber_end="815.312">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words592)..id(ES2016d.B.words603)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.440" channel="1" transcriber_start="816.435" transcriber_end="817.883">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words604)..id(ES2016d.B.words608)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.442" channel="1" transcriber_start="820.962" transcriber_end="821.562">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words609)..id(ES2016d.B.words610)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.444" channel="1" transcriber_start="822.967" transcriber_end="825.762">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words611)..id(ES2016d.B.words617)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.446" channel="1" transcriber_start="835.036" transcriber_end="837.258">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words618)..id(ES2016d.B.words622)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.448" channel="1" transcriber_start="839.026" transcriber_end="840.272">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words623)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.450" channel="1" transcriber_start="841.309" transcriber_end="850.344">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words624)..id(ES2016d.B.words654)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.452" channel="1" transcriber_start="851.952" transcriber_end="852.448">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words655)..id(ES2016d.B.words656)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.454" channel="1" transcriber_start="889.036" transcriber_end="890.797">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words657)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.456" channel="1" transcriber_start="900.56" transcriber_end="905.472">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words658)..id(ES2016d.B.words669)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.458" channel="1" transcriber_start="920.592" transcriber_end="923.684">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words670)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.460" channel="1" transcriber_start="963.065" transcriber_end="969.392">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words671)..id(ES2016d.B.words679)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.462" channel="1" transcriber_start="980.658" transcriber_end="981.735">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words680)..id(ES2016d.B.words683)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.464" channel="1" transcriber_start="982.914" transcriber_end="983.89">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words684)..id(ES2016d.B.words685)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.466" channel="1" transcriber_start="991.701" transcriber_end="992.509">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words686)..id(ES2016d.B.words687)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.468" channel="1" transcriber_start="1013.939" transcriber_end="1014.781">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words688)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.470" channel="1" transcriber_start="1018.249" transcriber_end="1019.36">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words689)..id(ES2016d.B.words690)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.472" channel="1" transcriber_start="1046.909" transcriber_end="1048.163">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words691)..id(ES2016d.B.words692)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.474" channel="1" transcriber_start="1052.422" transcriber_end="1057.708">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words693)..id(ES2016d.B.words714)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.476" channel="1" transcriber_start="1058.314" transcriber_end="1062.88">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words715)..id(ES2016d.B.words724)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.478" channel="1" transcriber_start="1063.904" transcriber_end="1064.745">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words725)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.480" channel="1" transcriber_start="1073.775" transcriber_end="1074.55">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words726)..id(ES2016d.B.words727)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.482" channel="1" transcriber_start="1078.471" transcriber_end="1080.727">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words728)..id(ES2016d.B.words734)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.484" channel="1" transcriber_start="1091.097" transcriber_end="1093.216">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words735)..id(ES2016d.B.words739)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.486" channel="1" transcriber_start="1099.01" transcriber_end="1100.222">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words740)..id(ES2016d.B.words741)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.488" channel="1" transcriber_start="1106.512" transcriber_end="1110.068">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words742)..id(ES2016d.B.words749)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.490" channel="1" transcriber_start="1111.344" transcriber_end="1114.412">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words750)..id(ES2016d.B.words761)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.492" channel="1" transcriber_start="1119.26" transcriber_end="1121.248">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words762)..id(ES2016d.B.words765)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.494" channel="1" transcriber_start="1122.796" transcriber_end="1127.712">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words766)..id(ES2016d.B.words782)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.496" channel="1" transcriber_start="1132.541" transcriber_end="1133.815">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words783)..id(ES2016d.B.words784)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.498" channel="1" transcriber_start="1145.37" transcriber_end="1147.39">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words785)..id(ES2016d.B.words787)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.500" channel="1" transcriber_start="1158.096" transcriber_end="1163.76">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words788)..id(ES2016d.B.words801)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.502" channel="1" transcriber_start="1166.072" transcriber_end="1167.756">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words802)..id(ES2016d.B.words805)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.504" channel="1" transcriber_start="1168.672" transcriber_end="1169.843">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words806)..id(ES2016d.B.words808)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.506" channel="1" transcriber_start="1170.685" transcriber_end="1174.557">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words809)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.508" channel="1" transcriber_start="1192.047" transcriber_end="1193.63">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words810)..id(ES2016d.B.words814)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.510" channel="1" transcriber_start="1198.276" transcriber_end="1199.791">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words815)..id(ES2016d.B.words819)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.512" channel="1" transcriber_start="1201.52" transcriber_end="1205.376">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words820)..id(ES2016d.B.words829)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.514" channel="1" transcriber_start="1213.344" transcriber_end="1215.443">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words830)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.516" channel="1" transcriber_start="1232.864" transcriber_end="1247.534">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words831)..id(ES2016d.B.words876)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.518" channel="1" transcriber_start="1248.578" transcriber_end="1250.093">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words877)..id(ES2016d.B.words880)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.520" channel="1" transcriber_start="1253.509" transcriber_end="1254.418">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words881)..id(ES2016d.B.words882)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.522" channel="1" transcriber_start="1258.795" transcriber_end="1261.422">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words883)..id(ES2016d.B.words890)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.524" channel="1" transcriber_start="1264.789" transcriber_end="1266.371">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words891)..id(ES2016d.B.words896)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.526" channel="1" transcriber_start="1274.565" transcriber_end="1276.422">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words897)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.528" channel="1" transcriber_start="1277.693" transcriber_end="1278.47">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words898)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.530" channel="1" transcriber_start="1281.635" transcriber_end="1288.317">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words899)..id(ES2016d.B.words903)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.532" channel="1" transcriber_start="1289.892" transcriber_end="1291.172">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words904)..id(ES2016d.B.words907)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.534" channel="1" transcriber_start="1292.013" transcriber_end="1295.852">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words908)..id(ES2016d.B.words922)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.536" channel="1" transcriber_start="1297.622" transcriber_end="1301.44">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words923)..id(ES2016d.B.words931)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.538" channel="1" transcriber_start="1303.75" transcriber_end="1305.299">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words932)..id(ES2016d.B.words937)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.540" channel="1" transcriber_start="1310.989" transcriber_end="1312.942">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words938)..id(ES2016d.B.words945)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.542" channel="1" transcriber_start="1371.861" transcriber_end="1382.224">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words946)..id(ES2016d.B.words950)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.544" channel="1" transcriber_start="1387.832" transcriber_end="1389.143">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words951)..id(ES2016d.B.words953)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.546" channel="1" transcriber_start="1389.929" transcriber_end="1390.575">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words954)..id(ES2016d.B.words955)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.548" channel="1" transcriber_start="1391.636" transcriber_end="1394.835">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words956)..id(ES2016d.B.words969)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.550" channel="1" transcriber_start="1442.398" transcriber_end="1443.812">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words970)..id(ES2016d.B.words972)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.552" channel="1" transcriber_start="1446.896" transcriber_end="1454.0">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words973)..id(ES2016d.B.words998)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.554" channel="1" transcriber_start="1455.296" transcriber_end="1457.161">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words999)..id(ES2016d.B.words1006)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.556" channel="1" transcriber_start="1458.979" transcriber_end="1460.056">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words1007)..id(ES2016d.B.words1009)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.558" channel="1" transcriber_start="1463.56" transcriber_end="1464.278">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words1010)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.560" channel="1" transcriber_start="1510.223" transcriber_end="1511.2">
+      <ns0:child href="ES2016d.B.words.xml#id(ES2016d.B.words1011)..id(ES2016d.B.words1012)" />
+   </segment>
+<segment ns0:id="ES2016d.sync.564" channel="2" transcriber_start="178.4" transcriber_end="180.731">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words0)..id(ES2016d.C.words3)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.566" channel="2" transcriber_start="183.29" transcriber_end="184.636">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words4)..id(ES2016d.C.words6)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.568" channel="2" transcriber_start="185.712" transcriber_end="209.516">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words7)..id(ES2016d.C.words74)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.569" channel="2" transcriber_start="209.516" transcriber_end="226.418">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words75)..id(ES2016d.C.words140)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.570" channel="2" transcriber_start="226.418" transcriber_end="248.591">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words141)..id(ES2016d.C.words210)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.571" channel="2" transcriber_start="248.591" transcriber_end="265.355">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words211)..id(ES2016d.C.words276)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.573" channel="2" transcriber_start="281.888" transcriber_end="285.886">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words277)..id(ES2016d.C.words294)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.575" channel="2" transcriber_start="289.312" transcriber_end="293.697">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words295)..id(ES2016d.C.words305)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.577" channel="2" transcriber_start="299.3" transcriber_end="300.614">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words306)..id(ES2016d.C.words311)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.579" channel="2" transcriber_start="313.576" transcriber_end="314.4">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words312)..id(ES2016d.C.words313)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.581" channel="2" transcriber_start="316.607" transcriber_end="319.873">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words314)..id(ES2016d.C.words328)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.583" channel="2" transcriber_start="324.214" transcriber_end="325.056">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words329)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.585" channel="2" transcriber_start="328.254" transcriber_end="335.19">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words330)..id(ES2016d.C.words351)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.587" channel="2" transcriber_start="447.808" transcriber_end="450.159">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words352)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.589" channel="2" transcriber_start="451.91" transcriber_end="452.786">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words353)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.591" channel="2" transcriber_start="454.301" transcriber_end="455.244">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words354)..id(ES2016d.C.words355)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.593" channel="2" transcriber_start="458.929" transcriber_end="460.107">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words356)..id(ES2016d.C.words359)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.595" channel="2" transcriber_start="461.656" transcriber_end="462.868">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words360)..id(ES2016d.C.words364)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.597" channel="2" transcriber_start="464.944" transcriber_end="467.2">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words365)..id(ES2016d.C.words373)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.599" channel="2" transcriber_start="468.188" transcriber_end="469.266">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words374)..id(ES2016d.C.words377)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.601" channel="2" transcriber_start="483.757" transcriber_end="485.474">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words378)..id(ES2016d.C.words385)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.603" channel="2" transcriber_start="498.302" transcriber_end="498.875">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words386)..id(ES2016d.C.words387)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.605" channel="2" transcriber_start="504.784" transcriber_end="505.552">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words388)..id(ES2016d.C.words389)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.607" channel="2" transcriber_start="535.61" transcriber_end="536.428">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words390)..id(ES2016d.C.words391)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.609" channel="2" transcriber_start="556.802" transcriber_end="560.707">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words392)..id(ES2016d.C.words410)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.611" channel="2" transcriber_start="572.656" transcriber_end="586.084">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words411)..id(ES2016d.C.words452)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.613" channel="2" transcriber_start="606.012" transcriber_end="620.321">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words453)..id(ES2016d.C.words504)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.615" channel="2" transcriber_start="622.912" transcriber_end="634.224">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words505)..id(ES2016d.C.words557)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.617" channel="2" transcriber_start="636.612" transcriber_end="640.416">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words558)..id(ES2016d.C.words571)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.619" channel="2" transcriber_start="641.696" transcriber_end="648.662">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words572)..id(ES2016d.C.words611)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.621" channel="2" transcriber_start="654.656" transcriber_end="655.666">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words612)..id(ES2016d.C.words613)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.623" channel="2" transcriber_start="662.126" transcriber_end="663.13">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words614)..id(ES2016d.C.words615)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.625" channel="2" transcriber_start="675.493" transcriber_end="676.369">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words616)..id(ES2016d.C.words617)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.627" channel="2" transcriber_start="687.141" transcriber_end="688.151">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words618)..id(ES2016d.C.words619)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.629" channel="2" transcriber_start="696.871" transcriber_end="701.989">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words620)..id(ES2016d.C.words644)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.631" channel="2" transcriber_start="703.807" transcriber_end="704.582">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words645)..id(ES2016d.C.words646)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.633" channel="2" transcriber_start="705.525" transcriber_end="706.333">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words647)..id(ES2016d.C.words648)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.635" channel="2" transcriber_start="712.846" transcriber_end="713.452">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words649)..id(ES2016d.C.words650)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.637" channel="2" transcriber_start="720.658" transcriber_end="723.552">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words651)..id(ES2016d.C.words658)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.639" channel="2" transcriber_start="727.257" transcriber_end="728.301">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words659)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.641" channel="2" transcriber_start="737.956" transcriber_end="740.187">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words660)..id(ES2016d.C.words662)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.643" channel="2" transcriber_start="750.077" transcriber_end="751.053">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words663)..id(ES2016d.C.words664)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.645" channel="2" transcriber_start="759.067" transcriber_end="763.312">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words665)..id(ES2016d.C.words677)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.647" channel="2" transcriber_start="764.808" transcriber_end="765.784">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words678)..id(ES2016d.C.words680)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.649" channel="2" transcriber_start="766.727" transcriber_end="769.69">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words681)..id(ES2016d.C.words690)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.651" channel="2" transcriber_start="773.299" transcriber_end="773.922">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words691)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.653" channel="2" transcriber_start="779.892" transcriber_end="782.787">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words692)..id(ES2016d.C.words700)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.655" channel="2" transcriber_start="785.616" transcriber_end="786.336">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words701)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.657" channel="2" transcriber_start="789.084" transcriber_end="789.69">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words702)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.659" channel="2" transcriber_start="800.384" transcriber_end="800.736">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words703)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.661" channel="2" transcriber_start="805.136" transcriber_end="808.829">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words704)..id(ES2016d.C.words713)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.663" channel="2" transcriber_start="821.841" transcriber_end="822.649">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words714)..id(ES2016d.C.words715)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.665" channel="2" transcriber_start="835.915" transcriber_end="836.454">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words716)..id(ES2016d.C.words717)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.667" channel="2" transcriber_start="839.148" transcriber_end="841.168">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words718)..id(ES2016d.C.words720)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.669" channel="2" transcriber_start="844.333" transcriber_end="845.283">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words721)..id(ES2016d.C.words723)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.671" channel="2" transcriber_start="847.404" transcriber_end="848.111">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words724)..id(ES2016d.C.words725)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.673" channel="2" transcriber_start="849.876" transcriber_end="852.166">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words726)..id(ES2016d.C.words738)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.675" channel="2" transcriber_start="869.136" transcriber_end="870.449">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words739)..id(ES2016d.C.words740)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.677" channel="2" transcriber_start="882.72" transcriber_end="885.312">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words741)..id(ES2016d.C.words748)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.679" channel="2" transcriber_start="889.689" transcriber_end="890.262">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words749)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.681" channel="2" transcriber_start="892.248" transcriber_end="894.639">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words750)..id(ES2016d.C.words757)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.683" channel="2" transcriber_start="902.24" transcriber_end="905.169">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words758)..id(ES2016d.C.words766)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.685" channel="2" transcriber_start="951.904" transcriber_end="957.984">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words767)..id(ES2016d.C.words794)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.687" channel="2" transcriber_start="958.806" transcriber_end="960.557">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words795)..id(ES2016d.C.words800)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.689" channel="2" transcriber_start="972.207" transcriber_end="974.943">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words801)..id(ES2016d.C.words809)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.691" channel="2" transcriber_start="1042.704" transcriber_end="1044.112">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words810)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.693" channel="2" transcriber_start="1057.984" transcriber_end="1058.943">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words811)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.695" channel="2" transcriber_start="1077.338" transcriber_end="1078.988">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words812)..id(ES2016d.C.words817)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.697" channel="2" transcriber_start="1114.24" transcriber_end="1115.25">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words818)..id(ES2016d.C.words821)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.699" channel="2" transcriber_start="1125.872" transcriber_end="1127.44">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words822)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.701" channel="2" transcriber_start="1129.849" transcriber_end="1130.528">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words823)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.703" channel="2" transcriber_start="1134.794" transcriber_end="1135.636">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words824)..id(ES2016d.C.words825)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.705" channel="2" transcriber_start="1136.864" transcriber_end="1137.522">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words826)..id(ES2016d.C.words827)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.707" channel="2" transcriber_start="1142.224" transcriber_end="1142.848">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words828)..id(ES2016d.C.words830)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.709" channel="2" transcriber_start="1144.236" transcriber_end="1145.718">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words831)..id(ES2016d.C.words835)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.711" channel="2" transcriber_start="1151.44" transcriber_end="1151.879">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words836)..id(ES2016d.C.words837)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.713" channel="2" transcriber_start="1160.802" transcriber_end="1161.812">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words838)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.715" channel="2" transcriber_start="1167.704" transcriber_end="1169.893">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words839)..id(ES2016d.C.words843)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.717" channel="2" transcriber_start="1172.366" transcriber_end="1173.612">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words844)..id(ES2016d.C.words848)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.719" channel="2" transcriber_start="1174.251" transcriber_end="1174.891">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words849)..id(ES2016d.C.words850)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.721" channel="2" transcriber_start="1177.82" transcriber_end="1179.167">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words851)..id(ES2016d.C.words856)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.723" channel="2" transcriber_start="1203.762" transcriber_end="1204.839">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words857)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.725" channel="2" transcriber_start="1209.654" transcriber_end="1210.597">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words858)..id(ES2016d.C.words860)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.727" channel="2" transcriber_start="1212.608" transcriber_end="1224.064">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words861)..id(ES2016d.C.words904)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.729" channel="2" transcriber_start="1231.824" transcriber_end="1232.464">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words905)..id(ES2016d.C.words906)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.731" channel="2" transcriber_start="1237.144" transcriber_end="1237.716">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words907)..id(ES2016d.C.words908)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.733" channel="2" transcriber_start="1246.72" transcriber_end="1253.328">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words909)..id(ES2016d.C.words935)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.735" channel="2" transcriber_start="1256.182" transcriber_end="1258.102">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words936)..id(ES2016d.C.words941)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.737" channel="2" transcriber_start="1266.014" transcriber_end="1266.788">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words942)..id(ES2016d.C.words945)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.739" channel="2" transcriber_start="1275.408" transcriber_end="1280.384">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words946)..id(ES2016d.C.words963)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.741" channel="2" transcriber_start="1281.368" transcriber_end="1282.272">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words964)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.743" channel="2" transcriber_start="1283.825" transcriber_end="1284.835">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words965)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.745" channel="2" transcriber_start="1293.728" transcriber_end="1294.192">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words966)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.747" channel="2" transcriber_start="1298.269" transcriber_end="1301.936">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words967)..id(ES2016d.C.words977)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.749" channel="2" transcriber_start="1304.027" transcriber_end="1306.148">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words978)..id(ES2016d.C.words984)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.751" channel="2" transcriber_start="1309.523" transcriber_end="1312.89">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words985)..id(ES2016d.C.words994)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.753" channel="2" transcriber_start="1321.6" transcriber_end="1322.385">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words995)..id(ES2016d.C.words996)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.755" channel="2" transcriber_start="1374.847" transcriber_end="1376.06">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words997)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.757" channel="2" transcriber_start="1387.936" transcriber_end="1391.552">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words998)..id(ES2016d.C.words1012)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.759" channel="2" transcriber_start="1393.387" transcriber_end="1396.148">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words1013)..id(ES2016d.C.words1022)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.761" channel="2" transcriber_start="1397.529" transcriber_end="1399.919">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words1023)..id(ES2016d.C.words1035)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.763" channel="2" transcriber_start="1440.384" transcriber_end="1442.64">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words1036)..id(ES2016d.C.words1042)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.765" channel="2" transcriber_start="1452.606" transcriber_end="1453.28">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words1043)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.767" channel="2" transcriber_start="1456.646" transcriber_end="1457.555">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words1044)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.769" channel="2" transcriber_start="1458.572" transcriber_end="1459.447">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words1045)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.771" channel="2" transcriber_start="1470.996" transcriber_end="1472.242">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words1046)..id(ES2016d.C.words1048)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.773" channel="2" transcriber_start="1487.117" transcriber_end="1488.026">
+      <ns0:child href="ES2016d.C.words.xml#id(ES2016d.C.words1049)..id(ES2016d.C.words1050)" />
+   </segment>
+<segment ns0:id="ES2016d.sync.776" channel="3" transcriber_start="186.354" transcriber_end="188.172">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words0)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.778" channel="3" transcriber_start="202.568" transcriber_end="203.679">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words1)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.780" channel="3" transcriber_start="300.974" transcriber_end="303.1">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words2)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.782" channel="3" transcriber_start="316.853" transcriber_end="318.675">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words3)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.784" channel="3" transcriber_start="320.565" transcriber_end="321.878">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words4)..id(ES2016d.D.words6)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.786" channel="3" transcriber_start="324.908" transcriber_end="326.087">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words7)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.788" channel="3" transcriber_start="326.592" transcriber_end="327.972">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words8)..id(ES2016d.D.words12)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.790" channel="3" transcriber_start="341.575" transcriber_end="345.597">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words13)..id(ES2016d.D.words16)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.792" channel="3" transcriber_start="351.468" transcriber_end="357.84">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words17)..id(ES2016d.D.words31)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.794" channel="3" transcriber_start="359.424" transcriber_end="360.24">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words32)..id(ES2016d.D.words33)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.796" channel="3" transcriber_start="379.569" transcriber_end="380.646">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words34)..id(ES2016d.D.words35)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.798" channel="3" transcriber_start="381.776" transcriber_end="397.245">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words36)..id(ES2016d.D.words87)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.799" channel="3" transcriber_start="397.245" transcriber_end="409.544">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words88)..id(ES2016d.D.words112)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.801" channel="3" transcriber_start="413.439" transcriber_end="417.782">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words113)..id(ES2016d.D.words124)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.803" channel="3" transcriber_start="422.656" transcriber_end="432.227">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words125)..id(ES2016d.D.words150)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.805" channel="3" transcriber_start="434.667" transcriber_end="435.856">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words151)..id(ES2016d.D.words152)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.807" channel="3" transcriber_start="439.331" transcriber_end="440.173">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words153)..id(ES2016d.D.words154)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.809" channel="3" transcriber_start="441.376" transcriber_end="452.0">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words155)..id(ES2016d.D.words181)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.811" channel="3" transcriber_start="453.033" transcriber_end="453.686">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words182)..id(ES2016d.D.words183)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.813" channel="3" transcriber_start="458.448" transcriber_end="460.176">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words184)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.815" channel="3" transcriber_start="470.561" transcriber_end="471.112">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words185)..id(ES2016d.D.words186)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.817" channel="3" transcriber_start="472.16" transcriber_end="473.172">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words187)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.819" channel="3" transcriber_start="481.893" transcriber_end="484.721">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words188)..id(ES2016d.D.words198)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.821" channel="3" transcriber_start="487.482" transcriber_end="488.492">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words199)..id(ES2016d.D.words201)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.823" channel="3" transcriber_start="495.073" transcriber_end="496.016">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words202)..id(ES2016d.D.words203)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.825" channel="3" transcriber_start="525.616" transcriber_end="528.519">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words204)..id(ES2016d.D.words214)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.827" channel="3" transcriber_start="529.052" transcriber_end="535.747">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words215)..id(ES2016d.D.words240)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.829" channel="3" transcriber_start="537.128" transcriber_end="538.946">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words241)..id(ES2016d.D.words249)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.831" channel="3" transcriber_start="540.697" transcriber_end="545.04">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words250)..id(ES2016d.D.words258)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.833" channel="3" transcriber_start="547.396" transcriber_end="553.408">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words259)..id(ES2016d.D.words273)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.835" channel="3" transcriber_start="561.344" transcriber_end="563.558">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words274)..id(ES2016d.D.words277)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.837" channel="3" transcriber_start="565.872" transcriber_end="571.908">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words278)..id(ES2016d.D.words293)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.839" channel="3" transcriber_start="573.292" transcriber_end="574.242">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words294)..id(ES2016d.D.words297)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.841" channel="3" transcriber_start="587.748" transcriber_end="591.115">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words298)..id(ES2016d.D.words303)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.843" channel="3" transcriber_start="591.991" transcriber_end="593.236">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words304)..id(ES2016d.D.words305)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.845" channel="3" transcriber_start="596.625" transcriber_end="604.976">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words306)..id(ES2016d.D.words329)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.847" channel="3" transcriber_start="606.048" transcriber_end="610.868">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words330)..id(ES2016d.D.words344)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.849" channel="3" transcriber_start="636.843" transcriber_end="637.853">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words345)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.851" channel="3" transcriber_start="640.448" transcriber_end="641.323">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words346)..id(ES2016d.D.words347)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.853" channel="3" transcriber_start="648.024" transcriber_end="649.236">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words348)..id(ES2016d.D.words350)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.855" channel="3" transcriber_start="649.976" transcriber_end="650.614">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words351)..id(ES2016d.D.words352)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.857" channel="3" transcriber_start="668.279" transcriber_end="668.953">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words353)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.859" channel="3" transcriber_start="697.473" transcriber_end="700.402">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words354)..id(ES2016d.D.words360)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.861" channel="3" transcriber_start="726.882" transcriber_end="728.229">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words361)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.863" channel="3" transcriber_start="740.476" transcriber_end="743.742">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words362)..id(ES2016d.D.words369)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.865" channel="3" transcriber_start="744.381" transcriber_end="746.873">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words370)..id(ES2016d.D.words378)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.867" channel="3" transcriber_start="747.748" transcriber_end="751.486">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words379)..id(ES2016d.D.words394)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.869" channel="3" transcriber_start="753.034" transcriber_end="756.637">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words395)..id(ES2016d.D.words401)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.871" channel="3" transcriber_start="766.717" transcriber_end="768.939">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words402)..id(ES2016d.D.words406)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.873" channel="3" transcriber_start="769.848" transcriber_end="772.373">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words407)..id(ES2016d.D.words412)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.875" channel="3" transcriber_start="777.76" transcriber_end="779.646">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words413)..id(ES2016d.D.words416)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.877" channel="3" transcriber_start="783.72" transcriber_end="787.458">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words417)..id(ES2016d.D.words430)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.879" channel="3" transcriber_start="788.694" transcriber_end="790.096">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words431)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.881" channel="3" transcriber_start="795.832" transcriber_end="803.328">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words432)..id(ES2016d.D.words447)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.883" channel="3" transcriber_start="811.489" transcriber_end="812.196">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words448)..id(ES2016d.D.words449)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.885" channel="3" transcriber_start="828.979" transcriber_end="833.861">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words450)..id(ES2016d.D.words460)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.887" channel="3" transcriber_start="835.949" transcriber_end="837.386">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words461)..id(ES2016d.D.words465)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.889" channel="3" transcriber_start="839.106" transcriber_end="840.393">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words466)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.891" channel="3" transcriber_start="852.395" transcriber_end="853.169">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words467)..id(ES2016d.D.words468)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.893" channel="3" transcriber_start="854.272" transcriber_end="864.651">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words469)..id(ES2016d.D.words481)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.895" channel="3" transcriber_start="866.031" transcriber_end="868.176">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words482)..id(ES2016d.D.words485)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.897" channel="3" transcriber_start="870.577" transcriber_end="871.62">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words486)..id(ES2016d.D.words487)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.899" channel="3" transcriber_start="877.898" transcriber_end="878.605">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words488)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.901" channel="3" transcriber_start="885.272" transcriber_end="887.2">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words489)..id(ES2016d.D.words496)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.903" channel="3" transcriber_start="888.976" transcriber_end="892.448">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words497)..id(ES2016d.D.words503)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.905" channel="3" transcriber_start="893.42" transcriber_end="895.137">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words504)..id(ES2016d.D.words511)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.907" channel="3" transcriber_start="896.551" transcriber_end="897.326">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words512)..id(ES2016d.D.words513)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.909" channel="3" transcriber_start="898.302" transcriber_end="899.481">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words514)..id(ES2016d.D.words518)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.911" channel="3" transcriber_start="902.29" transcriber_end="905.489">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words519)..id(ES2016d.D.words524)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.913" channel="3" transcriber_start="917.745" transcriber_end="920.176">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words525)..id(ES2016d.D.words532)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.915" channel="3" transcriber_start="921.213" transcriber_end="925.624">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words533)..id(ES2016d.D.words546)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.917" channel="3" transcriber_start="930.608" transcriber_end="931.921">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words547)..id(ES2016d.D.words550)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.919" channel="3" transcriber_start="938.049" transcriber_end="938.688">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words551)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.921" channel="3" transcriber_start="957.722" transcriber_end="959.103">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words552)..id(ES2016d.D.words557)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.923" channel="3" transcriber_start="960.618" transcriber_end="962.032">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words558)..id(ES2016d.D.words563)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.925" channel="3" transcriber_start="963.009" transcriber_end="964.423">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words564)..id(ES2016d.D.words567)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.927" channel="3" transcriber_start="1057.595" transcriber_end="1062.416">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words568)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.929" channel="3" transcriber_start="1114.752" transcriber_end="1117.04">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words569)..id(ES2016d.D.words571)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.931" channel="3" transcriber_start="1119.597" transcriber_end="1120.304">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words572)..id(ES2016d.D.words573)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.933" channel="3" transcriber_start="1124.304" transcriber_end="1125.49">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words574)..id(ES2016d.D.words576)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.935" channel="3" transcriber_start="1125.802" transcriber_end="1128.049">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words577)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.937" channel="3" transcriber_start="1140.338" transcriber_end="1140.877">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words578)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.939" channel="3" transcriber_start="1160.926" transcriber_end="1162.374">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words579)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.941" channel="3" transcriber_start="1164.158" transcriber_end="1167.794">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words580)..id(ES2016d.D.words588)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.943" channel="3" transcriber_start="1169.298" transcriber_end="1172.656">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words589)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.945" channel="3" transcriber_start="1177.81" transcriber_end="1178.348">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words590)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.947" channel="3" transcriber_start="1179.863" transcriber_end="1180.907">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words591)..id(ES2016d.D.words594)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.949" channel="3" transcriber_start="1203.683" transcriber_end="1206.016">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words595)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.951" channel="3" transcriber_start="1212.556" transcriber_end="1213.366">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words596)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.953" channel="3" transcriber_start="1227.825" transcriber_end="1228.633">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words597)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.955" channel="3" transcriber_start="1266.317" transcriber_end="1267.627">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words598)..id(ES2016d.D.words600)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.957" channel="3" transcriber_start="1273.747" transcriber_end="1274.522">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words601)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.959" channel="3" transcriber_start="1275.577" transcriber_end="1276.951">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words602)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.961" channel="3" transcriber_start="1281.008" transcriber_end="1283.127">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words603)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.963" channel="3" transcriber_start="1284.035" transcriber_end="1286.923">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words604)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.965" channel="3" transcriber_start="1289.527" transcriber_end="1290.061">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words605)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.967" channel="3" transcriber_start="1293.472" transcriber_end="1294.928">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words606)..id(ES2016d.D.words607)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.969" channel="3" transcriber_start="1297.529" transcriber_end="1302.864">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words608)..id(ES2016d.D.words620)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.971" channel="3" transcriber_start="1305.449" transcriber_end="1306.583">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words621)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.973" channel="3" transcriber_start="1307.798" transcriber_end="1309.448">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words622)..id(ES2016d.D.words627)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.975" channel="3" transcriber_start="1311.765" transcriber_end="1313.614">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words628)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.977" channel="3" transcriber_start="1322.72" transcriber_end="1323.629">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words629)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.979" channel="3" transcriber_start="1371.184" transcriber_end="1375.901">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words630)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.981" channel="3" transcriber_start="1376.905" transcriber_end="1381.814">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words631)..id(ES2016d.D.words639)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.983" channel="3" transcriber_start="1390.608" transcriber_end="1394.704">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words640)..id(ES2016d.D.words644)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.985" channel="3" transcriber_start="1403.719" transcriber_end="1404.594">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words645)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.987" channel="3" transcriber_start="1405.671" transcriber_end="1406.412">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words646)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.989" channel="3" transcriber_start="1445.417" transcriber_end="1448.279">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words647)..id(ES2016d.D.words651)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.991" channel="3" transcriber_start="1449.176" transcriber_end="1455.232">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words652)..id(ES2016d.D.words661)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.993" channel="3" transcriber_start="1456.197" transcriber_end="1460.32">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words662)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.995" channel="3" transcriber_start="1464.432" transcriber_end="1466.415">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words663)..id(ES2016d.D.words666)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.997" channel="3" transcriber_start="1491.918" transcriber_end="1493.44">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words667)" />
+   </segment>
+   <segment ns0:id="ES2016d.sync.999" channel="3" transcriber_start="1509.314" transcriber_end="1511.839">
+      <ns0:child href="ES2016d.D.words.xml#id(ES2016d.D.words668)..id(ES2016d.D.words674)" />
+   </segment>
+</segments>
